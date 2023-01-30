@@ -1,5 +1,5 @@
 # Payment Transaction Tracker
-My Mini Challenge 3 solution, in partial fulfillment of the requirements for the course, Web Application Development (CCAPDEV).
+My Mini Challenge 3 solution in partial fulfillment of the requirements for the course, Web Application Development (CCAPDEV).
 
 ## Local Set Up
 - Make sure MongoDB is installed and running.
